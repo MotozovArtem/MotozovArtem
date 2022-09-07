@@ -1,16 +1,13 @@
-### Hi there 👋
+### `fun main() { println("🖐 Hello") }`
 
-<!--
-**MotozovArtyom/MotozovArtyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working and during free time working on [Lynx P2P messenger](https://github.com/MotozovArtyom/lynx-mobile-client)!
+- 🌱 I’m currently learning Kotlin and Android!
+- 📫 How to reach me: motozov.a.v@gmail.com
+- 📖 Reading now: Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture and Kotlin Documentation
+- ⚡ Fact: 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☝
+```
+The power is in the truth. 
+              Danila Bagrov. Brother 2.
+```

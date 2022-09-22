@@ -12,7 +12,7 @@
   - Hate UI Dark theme 
   - Like old-school shooters (Doom, Quake, Duke Nukem, Ion Fury, Blood)
   
-### Languages
+### `Languages`
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
@@ -25,15 +25,18 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 
-### Technologies
+### `Technologies`
 
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Springboot)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![MongoDB](https://img.shields.io/badge/-S3-000?&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![S3](https://img.shields.io/badge/-S3-000?&logo=AmazonS3)
+
 
 
 ☝

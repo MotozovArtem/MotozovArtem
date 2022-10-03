@@ -41,7 +41,7 @@
 
 ☝
 ```
-The power is in the truth. 
-              Danila Bagrov. 
-                    Brother 2.
+The power is in the truth.                    Сила в правде.
+              Danila Bagrov.                     Данила Багров.
+                    Brother 2.                        к/ф. Брат 2.
 ```

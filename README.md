@@ -1,4 +1,4 @@
-### `fun main() { println("🖐 Hello") }`
+### `fun main() = println("🖐 Hello")`
 
 - 🔭 I’m currently working and during free time working on [Lynx P2P messenger](https://github.com/MotozovArtyom/lynx-mobile-client)!
 - 🌱 I’m currently learning Kotlin and Android!

@@ -33,7 +33,7 @@
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![MongoDB](https://img.shields.io/badge/-S3-000?&logo=MongoDB)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![S3](https://img.shields.io/badge/-S3-000?&logo=AmazonS3)
 

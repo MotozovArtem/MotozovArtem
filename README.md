@@ -1,6 +1,6 @@
 ### `fun main() = println("🖐 Hello")`
 
-- 🔭 I’m currently working and during free time working on [Lynx P2P messenger](https://github.com/MotozovArtyom/lynx-mobile-client)!
+- 🔭 I’m currently working and during free time working on [Pillifier](https://github.com/MotozovArtyom/pillifier)!
 - 🌱 I’m currently learning Kotlin and Android!
 - 📫 How to reach me: motozov.a.v@gmail.com
 - 📖 Reading now: 

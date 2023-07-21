@@ -17,12 +17,12 @@
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![C#](https://img.shields.io/badge/-dotnet-000?&logo=.NET)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-dotnet-000?&logo=.NET)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 

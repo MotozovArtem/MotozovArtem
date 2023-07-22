@@ -1,6 +1,6 @@
 ### `fun main() = println("🖐 Hello")`
 
-- 🔭 I’m currently working and during free time working on [RemindMeWord](https://github.com/MotozovArtyom/ReminMeWord) and game engine!
+- 🔭 I’m currently working and during free time working on [RemindMeWord](https://github.com/MotozovArtem/RemindMeWord) and game engine!
 - 🌱 I’m currently learning OpenGL with OpenTK bindings!
 - 📫 How to reach me: motozov.a.v@gmail.com
 - 📖 Reading now: 

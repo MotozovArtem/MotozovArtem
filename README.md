@@ -1,7 +1,7 @@
 ### `fun main() = println("🖐 Hello")`
 
-- 🔭 I’m currently working and during free time working on [Pillifier](https://github.com/MotozovArtyom/pillifier)!
-- 🌱 I’m currently learning Android Jetpack Compose!
+- 🔭 I’m currently working and during free time working on [RemindMeWord](https://github.com/MotozovArtyom/ReminMeWord) and game engine!
+- 🌱 I’m currently learning OpenGL with OpenTK bindings!
 - 📫 How to reach me: motozov.a.v@gmail.com
 - 📖 Reading now: 
   - 🎮 Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture

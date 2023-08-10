@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning OpenGL with OpenTK bindings!
 - 📫 How to reach me: motozov.a.v@gmail.com
 - 📖 Reading now: 
-  - 🎮 Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture
-  - 💻 Kotlin Documentation
   - 💻 Android Documentation
+  - Kad su cvetale tikve
+  - Demon Slayer Manga
 - ⚡ Fact: 
   - Use fonts: [Cascadia Сode](https://github.com/microsoft/cascadia-code), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=Roboto+mono)
   - Use IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Android Studio](https://developer.android.com/studio), [Visual Studio Code](https://code.visualstudio.com/)
-  - Hate UI Dark theme 
+  - Hate UI Dark theme
   - Like old-school shooters (Doom, Quake, Duke Nukem, Ion Fury, Blood, Dusk)
   
 ### `Languages`

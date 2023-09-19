@@ -6,6 +6,7 @@
 - 📖 Reading now: 
   - 💻 Android Documentation
   - Kad su cvetale tikve
+  - A Dog's Heart
   - Demon Slayer Manga
 - ⚡ Fact: 
   - Use fonts: [Cascadia Сode](https://github.com/microsoft/cascadia-code), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=Roboto+mono)

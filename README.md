@@ -5,9 +5,8 @@
 - 📫 How to reach me: motozov.a.v@gmail.com
 - 📖 Reading now: 
   - 💻 Android Documentation
-  - It's Me, Eddie
-  - A Dog's Heart
-- ⚡ Fact: 
+  - Clean Code
+- ⚡ Facts: 
   - Use fonts: [Cascadia Сode](https://github.com/microsoft/cascadia-code), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=Roboto+mono)
   - Use IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Android Studio](https://developer.android.com/studio), [Visual Studio Code](https://code.visualstudio.com/)
   - Hate UI Dark theme

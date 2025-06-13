@@ -1,11 +1,11 @@
 ### `fun main() = println("🖐 Hello")`
 
 - 🔭 I’m currently working and during free time working on [RemindMeWord](https://github.com/MotozovArtem/RemindMeWord) and game engine!
-- 🌱 I’m currently learning OpenGL with OpenTK bindings!
+- 🌱 I’m currently learning calm lifestyle!
 - 📫 How to reach me: motozov.a.v@gmail.com
 - 📖 Reading now: 
-  - 💻 Android Documentation
-  - Clean Code
+  - 💻 .NET documentation
+  - Clean Architecture
 - ⚡ Facts: 
   - Use fonts: [Cascadia Сode](https://github.com/microsoft/cascadia-code), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=Roboto+mono)
   - Use IDE: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Android Studio](https://developer.android.com/studio), [Visual Studio Code](https://code.visualstudio.com/)
